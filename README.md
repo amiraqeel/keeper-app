@@ -1,3 +1,5 @@
+**Note: This project is a part of [Complete Web Development 2020 course Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
